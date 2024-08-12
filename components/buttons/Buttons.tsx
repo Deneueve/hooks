@@ -10,7 +10,7 @@ export const ButtonActions = ({ action, text }: ButtonActions) => {
         <>
             <button
                 onClick={action}
-                className='w-36 py-2 px-4 rounded-xl m-4 border-blue-400 border-2 hover:border-blue-700 bg-slate-200'>
+                className='w-36 py-2 px-4 rounded-xl text-sm  m-4 border-blue-400 border-2 hover:border-blue-700 bg-slate-900 font-semibold text-neutral-300'>
                 {text}
             </button>
         </>

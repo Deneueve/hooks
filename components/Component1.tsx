@@ -22,7 +22,7 @@ export default function Component1() {
                     </tr>
                 </thead>
                 <tbody className='border-x-4'>
-                    {personas.slice(0, 5).map((item) => (
+                    {personas.slice(0, 10).map((item) => (
                         <tr key={item.id} className='border-4'>
                             <td className='border-4 py-2 px-5'>{item.id}</td>
                             <td className='border-4 py-2 px-5'>{item.name}</td>
