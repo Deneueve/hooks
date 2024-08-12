@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Jose Edinson",
+        "lastname": "Chati Carrillo"
+    },
+    {
+        "id": 2,
+        "name": "María Fernanda",
+        "lastname": "López García"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Alberto",
+        "lastname": "Pérez Ramírez"
+    },
+    {
+        "id": 4,
+        "name": "Ana María",
+        "lastname": "González Rodríguez"
+    },
+    {
+        "id": 5,
+        "name": "Luis Enrique",
+        "lastname": "Martínez Fernández"
+    },
+    {
+        "id": 6,
+        "name": "Sofía",
+        "lastname": "Hernández García"
+    },
+    {
+        "id": 7,
+        "name": "Juan Manuel",
+        "lastname": "Rodríguez López"
+    },
+    {
+        "id": 8,
+        "name": "Elena",
+        "lastname": "Sánchez Martínez"
+    },
+    {
+        "id": 9,
+        "name": "Gabriel",
+        "lastname": "Morales Torres"
+    },
+    {
+        "id": 10,
+        "name": "Paula",
+        "lastname": "Ramos Hernández"
+    },
+    {
+        "id": 11,
+        "name": "Diego",
+        "lastname": "Díaz Gómez"
+    },
+    {
+        "id": 12,
+        "name": "Lucía",
+        "lastname": "Gutiérrez Ruiz"
+    },
+    {
+        "id": 13,
+        "name": "David",
+        "lastname": "Molina Castro"
+    },
+    {
+        "id": 14,
+        "name": "Claudia",
+        "lastname": "Silva Ortega"
+    },
+    {
+        "id": 15,
+        "name": "Ricardo",
+        "lastname": "Vargas Flores"
+    },
+    {
+        "id": 16,
+        "name": "Isabella",
+        "lastname": "Torres Reyes"
+    },
+    {
+        "id": 17,
+        "name": "Sebastián",
+        "lastname": "Mendoza Ortiz"
+    },
+    {
+        "id": 18,
+        "name": "Valentina",
+        "lastname": "Cruz Ríos"
+    },
+    {
+        "id": 19,
+        "name": "Emilio",
+        "lastname": "Moreno Chávez"
+    },
+    {
+        "id": 20,
+        "name": "Camila",
+        "lastname": "Cabrera Jiménez"
+    }
+]
