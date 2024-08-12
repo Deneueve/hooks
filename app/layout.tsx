@@ -3,7 +3,13 @@ import { Roboto } from 'next/font/google';
 import './globals.css';
 import PersonasProvider from '@/hooks/context/PersonasProvider';
 
-const inter = Roboto({ subsets: ['latin'], weight: ['400'] });
+const inter = Roboto({ subsets: ['latin'], weight: ['500'] });
+
+// Components
+
+import Header from '@/components/Header';
+
+//
 
 export const metadata: Metadata = {
     title: 'Create Next App',
@@ -15,7 +21,8 @@ interface Props {
 export default function RootLayout({ children }: Props) {
     return (
         <html lang='es'>
-            <body className={inter.className}>
+            <body className={`${inter.className} overflow-hidden`}>
+                <Header />
                 <main className='main'>
                     <PersonasProvider>{children}</PersonasProvider>
                 </main>
